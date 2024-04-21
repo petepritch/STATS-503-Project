@@ -5,6 +5,10 @@ This project is for partial credit of STATS 503 Multivariate Analysis @ The Univ
 
 This project is an opportunity to apply the statistical learning techniques covered in class to a real dataset. The project has two parts. The first part is a somewhat open-ended investigation: you will pose and answer two questions using data from the National Health and Nutrition Examination Survey (NHANES). The second part is a Kaggle competition: you will test your ability to build powerful predictive models. You will submit final reports detailing your analysis.
 
+View NHANES notebook [here](https://github.com/petepritch/STATS-503-Project/blob/main/workspace/svm_tobacco.ipynb). 
+
+View Kaggle notebook [here]().
+
 ## NHANES Report Abstract
 
 We investigate the presence of volatile organic compounds (VOCs) in human blood samples and
