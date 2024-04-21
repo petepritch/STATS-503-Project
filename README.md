@@ -37,7 +37,7 @@ With additional time, it would have been both educational and interesting to tes
 
 ### Member Contributions
 
-- Pete: Pete did most of the initial data analysis, which helped us analyze what wasn’t working and how to build the right features. Pete also worked on designing the models that we used. 
-- Omar: Primarily worked on implementing the features that work suggested from Pete’s analysis as well as designing and optimizing the models. Architecture. 
+- Pete: Pete did most of the initial data analysis, which helped us analyze what wasn’t working and how to build the right features. Pete also worked on designing the models that we used, primarilty focusing on gradient boosted algorithms. 
+- Omar: Primarily worked on implementing the features that work suggested from Pete’s analysis as well as designing and optimizing the models' Architecture. 
 - Pan: Worked on both data analysis and model design, as well as testing various alternative models like boosted regression trees and adaptive boosting.  We all contributed evenly to writing the report. 
 
